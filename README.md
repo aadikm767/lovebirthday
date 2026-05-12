@@ -142,16 +142,16 @@
 <body>
 
     <audio id="bg-music" loop>
-        <source src="https://www.image2url.com/r2/default/audio/1776595072381-84f4eea9-8bdd-4f8d-8d0d-b333df818616.wav" type="audio/mpeg">
+        <source src="https://www.image2url.com/r2/default/audio/1778595272095-cfca3431-0cec-483e-80fd-d893a70b3caf.mp3" type="audio/mpeg">
     </audio>
 
     <div class="animation-overlay" id="anime"></div>
 
     <div class="page active" id="page1">
         <h1>For My Momooooooo... 🥟🥟</h1>
-        <img src="https://i.postimg.cc/DyvVSk8V/Whats-App-Image-2026-04-19-at-13-46-16.jpg" class="bhondu-img" alt="Bhondu">
+        <img src="https://i.postimg.cc/zB4r82QQ/Whats-App-Image-2026-05-12-at-19-48-55.jpg" class="bhondu-img" alt="Bhondu">
         <div style="width: 100%;">
-            <input type="password" id="pass" placeholder="Secret code is 'panda'...">
+            <input type="password" id="pass" placeholder="Secret code is 'momo'...">
             <br>
             <button onclick="checkPassword()">Unlock My Heart 🔑</button>
         </div>
@@ -159,7 +159,7 @@
 
     <div class="page" id="page2">
         <h1>Happy Birthday! 🎂</h1>
-        <img src="https://i.postimg.cc/gcKQFS45/Whats-App-Image-2026-04-19-at-13-51-57.jpg" class="collage-img" alt="Collage">
+        <img src="https://i.postimg.cc/m22cPtp8/Whats-App-Image-2026-05-12-at-20-00-27.jpg" class="collage-img" alt="Collage">
         <button onclick="nextPage(3)">See More ❤️</button>
     </div>
 
@@ -167,14 +167,14 @@
         <h1 id="gift-msg">You have a gift!</h1>
         <div class="gift-box" id="box" onclick="openGift()">🎁</div>
         <div id="gift-content" style="display:none;">
-            <img src="https://i.postimg.cc/cHS9Pwnz/Whats-App-Image-2026-04-17-at-14-28-08.jpg" class="bhondu-img" alt="Surprise">
-            <p style="font-size: 1.2rem; color: var(--dark-pink); font-weight: 600;">The cutest face in the world! ✨</p>
+            <img src="https://i.postimg.cc/cJN08z4v/Whats-App-Image-2026-05-12-at-19-48-54.jpg" class="bhondu-img" alt="Surprise">
+            <p style="font-size: 1.2rem; color: var(--dark-pink); font-weight: 600;">The fav face in the world! ✨</p>
             <button onclick="nextPage(4)">Continue...</button>
         </div>
     </div>
 
     <div class="page" id="page4">
-        <img src="https://i.postimg.cc/Y28ny4C0/Whats-App-Image-2026-04-17-at-14-29-00.jpg" class="bhondu-img" alt="Beauty">
+        <img src="https://i.postimg.cc/9FZWFVcj/Whats-App-Image-2026-05-12-at-19-48-56.jpg" class="momo-img" alt="Beauty">
         <div class="letter-container" style="border: none; background: none; box-shadow: none;">
             <p class="f-text">"To me you’re genuinely only and only most most most most special people of mine ever♾️.There’s something about you that makes me feel attached to you in a way I can’t even explain properly💚. Your presence feels comforting, your voice feels familiar, and even your smallest attention means a lot to me🥹. Without you things and days feel incomplete. You complete me♥️ 
 You may not realize it, but you have this effect on me where my mood instantly changes because of you🫠. Out of everyone, you became the person I care about the most, the person I wait for, think about, miss and feel safest with💗.
